@@ -25,7 +25,7 @@ criaCartao(
 criaCartao(
 'Tema HTML',
     'O que é uma tag <div>?',
-    'Um contêiner de bloco para agrupar elementos'
+    'Um conteiner de bloco para agrupar elementos'
 )
 
 criaCartao(
